@@ -1,0 +1,10 @@
+com\community\configuration\SiteConfig.class
+com\community\controller\seo\SiteMapController.class
+com\community\controller\seo\RobotsController.class
+com\community\configuration\SiteSecurityConfig$DependencyConfiguration.class
+com\community\configuration\SiteSecurityConfig.class
+com\community\configuration\SiteServletConfig.class
+com\community\service\SavedPaymentServiceImpl.class
+com\community\controller\content\PageController.class
+com\community\configuration\SiteConfig$SolrReindexConfig.class
+com\community\workflow\checkout\SendOrderConfirmationEmailActivity.class
